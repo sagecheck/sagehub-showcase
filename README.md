@@ -16,6 +16,31 @@ A plataforma reúne recursos para organização de músicas, lançamentos, shows
 
 ---
 
+## 📸 Screenshots
+
+### 🔐 Login
+![Tela de login do SageHUB](assets/screenshots/login.png)
+
+### 🏠 Dashboard
+![Dashboard do SageHUB](assets/screenshots/dashboard.png)
+
+### 🎵 STUDIO
+![STUDIO do SageHUB](assets/screenshots/studio.png)
+
+### 🎧 Projeto no STUDIO
+![Projeto e faixas no SageHUB](assets/screenshots/studio-project.png)
+
+### 🚀 Lançamentos
+![Gestão de lançamentos no SageHUB](assets/screenshots/releases.png)
+
+### 🎤 Shows
+![Gestão de shows no SageHUB](assets/screenshots/shows.png)
+
+### 👥 Gestão de Artistas
+![Gestão de artistas no SageHUB](assets/screenshots/label-manager.png)
+
+---
+
 ## 🚀 Principais funcionalidades
 
 * 🎵 Gestão de músicas e projetos
