@@ -1,4 +1,4 @@
-# SageHUB 🎵
+# SageHUB
 
 > Plataforma para organização e gestão da carreira de artistas.
 
@@ -8,7 +8,7 @@ Este repositório apresenta o projeto como **case de desenvolvimento**. O códig
 
 ---
 
-## 📱 Sobre o projeto
+## Sobre o projeto
 
 O SageHUB foi desenvolvido com foco em simplificar tarefas profissionais que normalmente ficam espalhadas entre planilhas, aplicativos, mensagens e serviços diferentes.
 
@@ -16,48 +16,48 @@ A plataforma reúne recursos para organização de músicas, lançamentos, shows
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
-### 🔐 Login
+### Login
 ![Tela de login do SageHUB](assets/screenshots/login.png)
 
-### 🏠 Dashboard
+### Dashboard
 ![Dashboard do SageHUB](assets/screenshots/dashboard.png)
 
-### 🎵 STUDIO
+### STUDIO
 ![STUDIO do SageHUB](assets/screenshots/studio.png)
 
-### 🎧 Projeto no STUDIO
+### Projeto no STUDIO
 ![Projeto e faixas no SageHUB](assets/screenshots/studio-project.png)
 
-### 🚀 Lançamentos
+### Lançamentos
 ![Gestão de lançamentos no SageHUB](assets/screenshots/releases.png)
 
-### 🎤 Shows
+### Shows
 ![Gestão de shows no SageHUB](assets/screenshots/shows.png)
 
-### 👥 Gestão de Artistas
+### Gestão de Artistas
 ![Gestão de artistas no SageHUB](assets/screenshots/label-manager.png)
 
 ---
 
-## 🚀 Principais funcionalidades
+## Principais funcionalidades
 
-* 🎵 Gestão de músicas e projetos
-* 🎧 Upload e reprodução de áudio
-* 🚀 Planejamento de lançamentos
-* 🎤 Organização de shows
-* 👥 Gestão de equipe
-* 📅 Calendário e organização
-* 📁 Biblioteca de arquivos
-* 🔔 Central de notificações
-* 👤 Suporte a múltiplos artistas
-* 🔐 Autenticação e controle de acesso
-* ☁️ Armazenamento privado de mídia
+* Gestão de músicas e projetos
+* Upload e reprodução de áudio
+* Planejamento de lançamentos
+* Organização de shows
+* Gestão de equipe
+* Calendário e organização
+* Biblioteca de arquivos
+* Central de notificações
+* Suporte a múltiplos artistas
+* Autenticação e controle de acesso
+* Armazenamento privado de mídia
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 ### Aplicação
 
@@ -87,7 +87,7 @@ A plataforma reúne recursos para organização de músicas, lançamentos, shows
 
 ---
 
-## 🏗️ Arquitetura
+## Arquitetura
 
 O projeto utiliza uma arquitetura que separa aplicação, autenticação, banco de dados e armazenamento de mídia.
 
@@ -97,14 +97,15 @@ O armazenamento de mídia utiliza infraestrutura privada com **Backblaze B2**, c
 
 ---
 
-## 📱 Plataformas
+## Plataformas
 
 * Android
 * Web
+* Windows
 
 ---
 
-## 🔒 Código-fonte
+## Código-fonte
 
 O código-fonte completo do SageHUB não está disponível publicamente porque o projeto corresponde a um produto em desenvolvimento.
 
@@ -120,6 +121,6 @@ Este repositório existe exclusivamente para apresentar o projeto, as tecnologia
 
 ---
 
-## 🚧 Status
+## Status
 
 Em desenvolvimento ativo.
